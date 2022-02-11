@@ -25,7 +25,7 @@ var gitHubDefinition = "An online resource that stores coding projects and can r
     It should be a string containing your best definition of what 'git init' does.
 */
 
-//CODE HERE
+var gitInitDefinition = "This command creates a new Git repository and creates new directories needed to store all the data from your project accurately in the repository."
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -33,7 +33,7 @@ var gitHubDefinition = "An online resource that stores coding projects and can r
     It should be a string containing your best definition of what 'git clone' does.
 */
 
-//CODE HERE
+var gitCloneDefinition = "This command creates a copy of an existing repository."
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -41,7 +41,7 @@ var gitHubDefinition = "An online resource that stores coding projects and can r
     It should be a string containing your best definition of what 'git status' does.
 */
 
-//CODE HERE
+var gitStatusDefinition = "Command to display which changes have been properly staged for pushing to git. File names will appear in green if they are ready for a push, or will appear in red if they have not been saved or added correctly."
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -52,7 +52,8 @@ var gitHubDefinition = "An online resource that stores coding projects and can r
     It should be a string containing the code to add all files.
 */
 
-//CODE HERE
+var gitAddDefinition = "Command to add a change to the directory in the staging area. It does not make the code totally ready to 'send' but it sends all the data through to be ready to send it with a commit command."
+var gitAddCode = "git add ."
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -63,7 +64,7 @@ var gitHubDefinition = "An online resource that stores coding projects and can r
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-//CODE HERE
+var gitCommitDefinition = 
 
 
 //////////////////PROBLEM 8////////////////////
