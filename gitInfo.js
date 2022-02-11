@@ -64,7 +64,7 @@ var gitAddCode = "git add ."
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-var gitCommitDefinition = 
+var gitCommitDefinition = "This is 'packaging your project to send,' or creating a version of the code project to be able to push it through. You can then look back at these versions to see what changes were made to the code."
 
 
 //////////////////PROBLEM 8////////////////////
@@ -73,4 +73,4 @@ var gitCommitDefinition =
     It should be a string containing your best definition of what 'git push' does.
 */
 
-//CODE HERE
+var gitPushDefinition = "Command to push your current project repository to a remote repository. This is the final step in 'sending the package' to whatever remote repository where it will be stored, although it is a copy so you retain your project in your local repository as well."
