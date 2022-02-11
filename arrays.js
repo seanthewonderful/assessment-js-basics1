@@ -2,13 +2,15 @@
 /* Create a copy of the faveColors array called 'colorCopy' using the slice method. */
 
 const faveColors = ['red', 'green', 'black']
+let colorCopy = faveColors.slice()
+//console.log(colorCopy)
 
-//CODE HERE
 
 //////////////////PROBLEM 2////////////////////
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
-//CODE HERE
+colorCopy.push(`yellow`)
+console.log(colorCopy)
 
 //////////////////PROBLEM 3////////////////////
 /*
