@@ -4,13 +4,14 @@
 const faveColors = ['red', 'green', 'black']
 let colorCopy = faveColors.slice()
 //console.log(colorCopy)
-
+//"It's an older code sir, but it checks out."
 
 //////////////////PROBLEM 2////////////////////
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
 colorCopy.push(`yellow`)
-console.log(colorCopy)
+//console.log(colorCopy)
+//"It's an older code sir, but it checks out."
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -20,8 +21,11 @@ console.log(colorCopy)
 
 const numbers = [1, 2, 3, 4, 5]
 
-//CODE HERE
-
+middleNums = numbers.slice(1,4)
+/*console.log(middleNums)
+console.log(numbers)
+"It's an older code sir, but it checks out."
+*/
 
 //////////////////PROBLEM 4////////////////////
 /* 
@@ -34,5 +38,6 @@ const numbers = [1, 2, 3, 4, 5]
 */
 
 const bigOrSmallArray = [1, 99, 42, 69, 102, -10, 159, 352]
+let answers = []
 
-// CODE HERE
+
