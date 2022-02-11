@@ -9,7 +9,7 @@
     It should be a string containing your best definition of what Git is.
 */
 
-//CODE HERE
+var gitDefinition = "An inisible friend who, with the right convincing, can store our code with all its progressional changes and can upload and share that code."
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -17,7 +17,7 @@
     It should be a string containing your best definition of what GitHub is.
 */
 
-//CODE HERE
+var gitHubDefinition = "An online resource that stores coding projects and can reference all changes save with git, as well as provide a source from which to download and upload code for remote work and collaborative efforts. Also a basic code portfolio for users."
 
 //////////////////PROBLEM 3////////////////////
 /*
